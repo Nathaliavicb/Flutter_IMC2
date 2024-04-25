@@ -1,8 +1,9 @@
-# IMC 
-### Aplicativo para calcular IMC
+# Aplicativo IMC
+### Aplicativo 3 - Cálculo IMC
 
-122100025 - Hiago Ferreira dos Santos
-122100007 - Matheus Matos Rodrigues
+
+Deivid Ferreira - 12117022
+Nathalia Barcelos - 12217004
 
 <img src="imagens/magreza.png" width="350" height="400">
 <img src="imagens/pesoIdeal.png" width="350" height="400">
