@@ -2,8 +2,8 @@
 ### Aplicativo 3 - Cálculo IMC
 
 
-Deivid Ferreira - 12117022 /
-Nathalia Barcelos - 12217004
+* Deivid Ferreira - 12117022\
+* Nathalia Barcelos - 12217004
 
 <img src="imagens/magreza.png" width="350" height="400">
 <img src="imagens/pesoIdeal.png" width="350" height="400">
